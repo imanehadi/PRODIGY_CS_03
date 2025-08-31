@@ -23,8 +23,6 @@ It checks **length, lowercase letters, uppercase letters, numbers, and special c
 
 ```bash
 ================= ⚙️ INSTALLATION =================
-# Clone project (if on GitHub)
-git clone https://github.com/your-username/password-checker.git
 cd password-checker
 
 # Create virtual environment
